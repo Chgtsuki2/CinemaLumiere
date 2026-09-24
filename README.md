@@ -10,18 +10,14 @@ Thành viên 1: @Chgtsuki2
 Service (thư mục)	Chức năng bên trong
 
 auth-service	Authentication: đăng ký, đăng nhập, xác thực người dùng
-
-Account: quản lý tài khoản, thông tin người dùng
+,Account: quản lý tài khoản, thông tin người dùng
 
 movie-service	Movie: quản lý phim
-
-Category: quản lý thể loại phim
+,Category: quản lý thể loại phim
 
 cinema-service	Cinema: quản lý rạp chiếu
-
-Room: quản lý phòng chiếu
-
-Seat: quản lý ghế trong phòng
+,Room: quản lý phòng chiếu
+,Seat: quản lý ghế trong phòng
 
 ------------------------------------------------------------------------
 
