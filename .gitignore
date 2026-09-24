@@ -1,0 +1,14 @@
+**/target/
+**/build/
+**/dist/
+**/out/
+.gradle/
+**/node_modules/
+.idea/
+.vscode/
+.run/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
+logs/
