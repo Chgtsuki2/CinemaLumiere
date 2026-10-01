@@ -1,8 +1,8 @@
 Thành viên và phân công
 
-Thành viên 1	@Chgtsuki2	Authentication, Account, Movie, Category, Cinema, Room, Seat
+Thành viên 1	@chgtsuki	Authentication, Account, Movie, Category, Cinema, Room, Seat, Frontend User
 
-Thành viên 2	@APONIA	Showtime, Booking, Payment, Notification, Frontend User, Admin Dashboard
+Thành viên 2	@APONIA	Showtime, Booking, Payment, Notification, Admin Dashboard
 
 ------------------------------------------------------------------------
 Thành viên 1: @Chgtsuki2
